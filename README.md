@@ -13,6 +13,8 @@ Hola 👋 Soy <b>Carlos David</b>, un desarrollador apasionado por crear solucio
 Actualmente enfocado en el desarrollo Full-Stack y la automatización.
 </p>
 
+<hr />
+
 <h2 align="center">🛠️ Technology Stack</h2>
 
 <p align="center">
@@ -22,6 +24,8 @@ Actualmente enfocado en el desarrollo Full-Stack y la automatización.
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
 </p>
+
+<hr />
 
 <h2 align="center">📊 My GitHub Stats</h2>
 
@@ -34,15 +38,39 @@ Actualmente enfocado en el desarrollo Full-Stack y la automatización.
 <img width="100%" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DZcared-CD%26theme%3Dtokyonight%26fire%3Dff0000%26sideNums%3Dff0000%26sideLabels%3Dffffff%26dates%3Dffffff" alt="GitHub Streak" />
 </p>
 
+<hr />
+
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
-<p align="center">
-| Proyecto | Descripción | Tecnología |
-| :--- | :--- | :--- |
-| GataBot | Configuración avanzada para bots. | Node.js |
-| TechnologyBox | Bases de desarrollo web. | HTML/CSS |
-| Web Profesional | Práctica de estándares industriales. | JavaScript |
-</p>
+<div align="center">
+
+Proyecto
+
+Descripción
+
+Tecnología
+
+GataBot
+
+Configuración avanzada para bots.
+
+Node.js
+
+TechnologyBox
+
+Bases de desarrollo web.
+
+HTML/CSS
+
+Web Profesional
+
+Práctica de estándares industriales.
+
+JavaScript
+
+</div>
+
+<hr />
 
 <h2 align="center">📫 Conectemos</h2>
 
